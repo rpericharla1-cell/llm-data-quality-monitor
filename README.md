@@ -4,6 +4,11 @@
 > in time series data — including semantic anomalies that rule-based systems miss.
 
 ---
+## Dashboard Preview
+
+![Dashboard Screenshot](P1 Dashboard.png)
+
+---
 
 ## Problem Statement
 
