@@ -6,11 +6,6 @@
 ---
 ## Dashboard Preview
 
-![Dashboard Screenshot](P1 Dashboard.png)
-
----
-## Dashboard Preview
-
 ![Dashboard Screenshot](dashboard_screenshot.png)
 
 ---
